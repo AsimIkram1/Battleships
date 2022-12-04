@@ -2,7 +2,7 @@
 A turn based game where two players take turns in trying to sink all the ships of the other player
 
 # Board Layout
-The empty board is a 10x10 grid tha looks as follows
+The empty board is a 10x10 grid that looks as follows
 ```
     1 2 3 4 5 6 7 8 9 10
 A   ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
